@@ -16,6 +16,6 @@
   <img aling="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div><br/>
 
-Meu <a href = https://guxtavo667.github.io/guxtavo/>Portifólio</a>
+Meu <a href = https://guxtavo667.github.io/guxtavo/>Portifólio.</a>
 <br>
 Apaixonado por tecnologia e amo programar.
