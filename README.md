@@ -4,6 +4,8 @@
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Guxtavo667&show_icons=true&theme=dracula)
 
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green).
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guxtavo667)](https://github.com/anuraghazra/github-readme-stats)
 
 
