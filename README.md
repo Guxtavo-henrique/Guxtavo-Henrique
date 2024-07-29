@@ -2,11 +2,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guxtavo/)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Guxtavo667&show_icons=true&theme=dracula)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Guxtavo-Henrique&show_icons=true&theme=dracula)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green).
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guxtavo-Henrique&theme=blue-green).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guxtavo667)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guxtavo-Henrique)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia
